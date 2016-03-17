@@ -12,7 +12,7 @@ services:
    - mongodb
 env:
   global:
-    - APP_NAME=shiphitchcock4
+    - APP_NAME=shiphit2
     - MONGOLAB_URI=mongodb://localhost/test
 
 #on_success :
