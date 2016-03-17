@@ -16,7 +16,7 @@ env:
     - MONGOLAB_URI=mongodb://localhost/test
 
 #on_success :
- 3 - git push -f git@heroku.com:$APP_NAME.git master
+ # - git push -f git@heroku.com:$APP_NAME.git master
 
 
 #before_install:
